@@ -1,4 +1,4 @@
-# CS361-movies-description-microservice
+# Movie Descriptions Microservice
 
 <h1>Request Data</h1>
 How to Request Data:

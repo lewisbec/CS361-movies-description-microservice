@@ -21,5 +21,5 @@ Example Format:
 
 <h1>UML Sequence Diagram</h1>
 
- <img src="https://imgur.com/DB2qhuk.jpg" title="hover text">
+ <img src="https://imgur.com/4PWkkAo.jpg" title="hover text">
 
